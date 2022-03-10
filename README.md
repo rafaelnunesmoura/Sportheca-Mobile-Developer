@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://hermes.digitalinnovation.one/tracks/fc241876-5384-4d19-b1ed-e92a689e1c8f.png" width="350">
+	<img src="assets/mobile-logo.png" width="350">
 </div>
 
  ## Sportheca Mobile Developer
